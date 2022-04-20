@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(135, 65, 255);
+    margin: 0 auto;
+    
+    width: 70%;
+}
+
+.tibedo {
+    display: flex;
+    color: white;
+}
+
+#tibpic {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 100px;
+    border-radius: 70px;
+    margin-top: 20px;
+}
+
+.tib {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.collection {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 20px black;
+    margin: 10px 10px;
+    background-color: white;
+ 
+}
+
+.img {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(198, 196, 196);
+}
+
+.proprietes, .cardname, .description {
+    padding: 10px;
+}
