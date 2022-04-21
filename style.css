@@ -7,27 +7,41 @@ body {
 
 .tibedo {
     display: flex;
+    flex-wrap: wrap;
     color: white;
+    margin-left: 30px;
+   margin-top: 50px;
+    
 }
 
 #tibpic {
-    width: 100px;
-    height: 100px;
+    width: 96px;
+    height: 122px;
     background-color: rgb(255, 255, 255);
-    margin-left: 100px;
-    border-radius: 70px;
+    margin: auto;
     margin-top: 20px;
+    border: 2px solid white;
+    border-radius: 300px;
 }
 
 .tib {
     width: 700px;
     margin: 0 auto;
+    padding: 10px;
+    font-family: fantasy;
+    border: 5px solid rgb(120, 30, 255);
+    border-left-style: dotted;
+    border-right-style: none;
+    border-top-style:none;
+    border-bottom-style: none; 
+    padding-left: 25px;
 }
+
 
 main {
     display: flex;
     flex-wrap: wrap;
-
+    justify-content: center;
 }
 
 .cards {
@@ -39,8 +53,9 @@ main {
     box-shadow: 10px 5px 5px black;
     margin: 30px 30px;
     background-color: rgb(0, 0, 0);
- 
 }
+
+
 
 .cardname {
     font-family: monospace;
@@ -51,8 +66,8 @@ main {
     text-align: center;
 }
 img {
-    width: 255px;
-    height: 361px;
+    width: 254px;
+    height: 360px;
 }
 .img {
     
@@ -130,4 +145,42 @@ img {
     border-radius: 10px;
 }
 
+
+.cardname:hover {
+    color: #ffee10; 
+    text-shadow: 0 0 5px #ffee10;
+}
+
+.rarity:hover {
+    color: #ffee10; 
+    text-shadow: 0 0 5px #ffee10;
+    cursor: pointer;
+}
+.year:hover {
+    color: #ff4242; 
+    text-shadow: 0 0 5px #ff4b4b;
+    cursor: pointer;
+}
+.edition:hover {
+    color: #f200ff; 
+    text-shadow: 0 0 5px #ff00ee;
+    cursor: pointer;
+}
+.price:hover {
+    color: #00ff1e; 
+    text-shadow: 0 0 5px #00ff00;
+    cursor: pointer;
+}
+.language:hover {
+    color: #0048ff; 
+    text-shadow: 0 0 5px #004cff;
+    cursor: pointer;
+}
+img:hover {
+    color: #ffffff; 
+    box-shadow: 0 0 10px #ffffff;
+    cursor: pointer;
+    width: 255px;
+    height: 361px;
+}
 

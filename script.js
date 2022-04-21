@@ -1,7 +1,7 @@
 const collection = [
     {
       name: "Pikachu Poncho",
-      drawer: "Illustration: Kouki Saitou",
+      drawer: "Draw : Kouki Saitou",
       year: 2013,
       edition: "XY",
       picture: "img/pikachuponcho.jpeg",
@@ -12,7 +12,7 @@ const collection = [
     
     {
       name: "Dracaufeu V Shiny",
-      drawer: "Illustration: 5ban Graphics",
+      drawer: "Draw : 5ban Graphics",
       year: 2020,
       edition: "La voie du maître",
       picture: "img/dracaufeu.png",
@@ -22,7 +22,7 @@ const collection = [
     },
     {
       name: "Mew ancient",
-      drawer: "Illustration: ?*?*",
+      drawer: "Draw : ?*?*",
       year: 1999,
       edition: "From cinema movie",
       picture: "img/mew.jpeg",
@@ -32,7 +32,7 @@ const collection = [
     },
     {
       name: "Mewtwo GX",
-      drawer: "Illustration: 5ban Graphics",
+      drawer: "Draw : 5ban Graphics",
       year: 2017,
       edition: "Shining Legends",
       picture: "img/mewtwo.jpeg",
@@ -42,7 +42,7 @@ const collection = [
     },
     {
       name: "Rayquaza VMAX ",
-      drawer: "Illustration: Anesaki Dynamic",
+      drawer: "Draw : Anesaki Dynamic",
       year: 2021,
       edition: "Evolving Skies",
       picture: "img/rayquaza.jpeg",
@@ -52,7 +52,7 @@ const collection = [
     },
     {
       name: "Sulfura de Galar v",
-      drawer: "Illustration: aky CG Works",
+      drawer: "Draw : aky CG Works",
       year: 2022,
       edition: "Brillant Stars",
       picture: "img/sulfura.jpeg",
@@ -62,7 +62,7 @@ const collection = [
     },
     {
       name: "Umbreon Star",
-      drawer: "Illustration: Mazakazu Fukuda",
+      drawer: "Draw : Mazakazu Fukuda",
       year: 2007,
       edition: "POP Series 5",
       picture: "img/noctali.jpeg",
@@ -72,7 +72,7 @@ const collection = [
     },
     {
       name: "Dracolosse V ",
-      drawer: "Illustration: Atsushi Furusawa",
+      drawer: "Draw : Atsushi Furusawa",
       year: 2021,
       edition: "Evolving Skies",
       picture: "img/dracolosse.png",
@@ -82,7 +82,7 @@ const collection = [
     },
     {
       name: "Ectoplasma",
-      drawer: "Illustration: Hironobu Yoshida",
+      drawer: "Draw : Hironobu Yoshida",
       year: 2001,
       edition: "Pokemon card web",
       picture: "img/gengar.jpeg",
@@ -92,7 +92,7 @@ const collection = [
     },
     {
       name: "Magicarp",
-      drawer: "Illustration: Ken Sugimod",
+      drawer: "Draw : Ken Sugimod",
       year: 1996,
       edition: "Unnumbered Promo",
       picture: "img/magicarp.jpeg",
