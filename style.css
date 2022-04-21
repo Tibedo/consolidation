@@ -36,12 +36,24 @@ main {
     flex-direction: column;
     margin-top: 200px;
     border: 1px solid rgb(255, 255, 255);
-    box-shadow: 20px black;
-    margin: 10px 10px;
-    background-color: white;
+    box-shadow: 10px 5px 5px black;
+    margin: 30px 30px;
+    background-color: rgb(0, 0, 0);
  
 }
 
+.cardname {
+    font-family: monospace;
+    margin: 0 auto;
+    background-color: black;
+    width: 235px;
+    color: white;
+    text-align: center;
+}
+img {
+    width: 255px;
+    height: 361px;
+}
 .img {
     
     background-color: rgb(198, 196, 196);
@@ -56,4 +68,66 @@ main {
     
     justify-content: space-around;
 }
+
+.rarity {
+    font-family: monospace;
+    color: gold;
+    border: 2px solid gold;
+    
+}
+
+.year {
+    font-family: monospace;
+    color: rgb(255, 0, 0);
+    border: 2px solid red;
+}
+
+.price {
+    font-family: monospace;
+    color: rgb(0, 255, 0);
+    border: 2px solid rgb(0, 255, 0);
+    width: 40%;
+    height: 35%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(80, 80, 80);
+    font-size: large;
+}
+
+.edition{
+    font-family: monospace;
+    color: rgb(217, 0, 255);
+    border: 2px solid rgb(171, 0, 201);
+}
+
+.drawer {
+    font-family: fantasy;
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.language {
+    margin: 0 auto;
+    font-family: monospace;
+    color: rgb(103, 103, 255);
+    font-size: x-large;
+}
+
+.rarity, .year {
+    background-color: rgb(80, 80, 80);
+    width: 40%;
+    height: 40%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.edition {
+    background-color: rgb(0, 0, 0);
+    width: 40%;
+    height: 60%;
+    text-align: center;
+    border-radius: 10px;
+}
+
 

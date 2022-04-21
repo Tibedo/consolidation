@@ -1,104 +1,104 @@
 const collection = [
     {
-      name: "Pikachu VMAX",
-      drawer: "Illustration : Akira Egawa",
-      year: 2019,
-      edition: "Sword & Shield",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Holo rare", "Promo", "Secret rare" ],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Pikachu Poncho",
+      drawer: "Illustration: Kouki Saitou",
+      year: 2013,
+      edition: "XY",
+      picture: "img/pikachuponcho.jpeg",
+      price: "700€",
+      rarity: "Promo",     //????????????//
+      languages: "Japanese",     //??????????????//
     },
     
     {
       name: "Dracaufeu V Shiny",
-      drawer: "Illustration : bloblo",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      drawer: "Illustration: 5ban Graphics",
+      year: 2020,
+      edition: "La voie du maître",
+      picture: "img/dracaufeu.png",
+      price: "420€",
+      rarity: "Secret rare",
+      languages: "French",
     },
     {
-      name: "Mew",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Mew ancient",
+      drawer: "Illustration: ?*?*",
+      year: 1999,
+      edition: "From cinema movie",
+      picture: "img/mew.jpeg",
+      price: "25€",
+      rarity: "Promo",
+      languages: "???",
     },
     {
-      name: "Mewtwo",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Mewtwo GX",
+      drawer: "Illustration: 5ban Graphics",
+      year: 2017,
+      edition: "Shining Legends",
+      picture: "img/mewtwo.jpeg",
+      price: "6€",
+      rarity: "Ultra Rare",
+      languages: "English",
     },
     {
-      name: "Rayquaza",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Rayquaza VMAX ",
+      drawer: "Illustration: Anesaki Dynamic",
+      year: 2021,
+      edition: "Evolving Skies",
+      picture: "img/rayquaza.jpeg",
+      price: "169€",
+      rarity: "Secret Rare",
+      languages: "English",
     },
     {
-      name: "Entei",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Sulfura de Galar v",
+      drawer: "Illustration: aky CG Works",
+      year: 2022,
+      edition: "Brillant Stars",
+      picture: "img/sulfura.jpeg",
+      price: "32€",
+      rarity: "Secret Gold",
+      languages: "English",
     },
     {
-      name: "Noctali",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Umbreon Star",
+      drawer: "Illustration: Mazakazu Fukuda",
+      year: 2007,
+      edition: "POP Series 5",
+      picture: "img/noctali.jpeg",
+      price: "3350€",
+      rarity: "Ultra Rare",
+      languages: "English",
     },
     {
-      name: "dragonite",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Dracolosse V ",
+      drawer: "Illustration: Atsushi Furusawa",
+      year: 2021,
+      edition: "Evolving Skies",
+      picture: "img/dracolosse.png",
+      price: "150€",
+      rarity: "Ultra Rare",
+      languages: "French",
     },
     {
-      name: "Gengar",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Ectoplasma",
+      drawer: "Illustration: Hironobu Yoshida",
+      year: 2001,
+      edition: "Pokemon card web",
+      picture: "img/gengar.jpeg",
+      price: "540€",
+      rarity: "Holographique",
+      languages: "Japanese",
     },
     {
-      name: "Arceus",
-      drawer: "Illustration : blabla",
-      year: 1994,
-      edition: "Ex Emerald",
-      picture: "img/pikachu.jpeg",
-      price: "MINT : 7€",
-      rarity: ["Ultra rare", "Foil"],
-      languages: ["French", "English", "Japanese", "Italian"]
+      name: "Magicarp",
+      drawer: "Illustration: Ken Sugimod",
+      year: 1996,
+      edition: "Unnumbered Promo",
+      picture: "img/magicarp.jpeg",
+      price: "400.000€",
+      rarity: "Promo",
+      languages: "Japanese",
     }
 
 
@@ -108,7 +108,8 @@ const collection = [
  
   const main = document.querySelector("main")
 
-  for (const card of collection) {
+  //for (const card of collection) {
+    collection.forEach (card => {
 
     console.log(card.name);
     console.log(card.picture);
@@ -136,7 +137,7 @@ const collection = [
 
     const rarity = document.createElement ("p")
     rarity.className = "rarity"
-    rarity.innerText = card.rarity[2]
+    rarity.innerText = card.rarity
 
     const year = document.createElement ("p")
     year.className = "year"
@@ -156,8 +157,8 @@ const collection = [
     drawer.innerText = card.drawer
 
     const language = document.createElement ("section")
-    language.className = "drawer"
-    language.innerText = card.languages[2]
+    language.className = "language"
+    language.innerText = card.languages
     
     
     article.appendChild(name)
@@ -178,7 +179,7 @@ const collection = [
 
     main.appendChild(article)
        
-  }
+  })
 
-  
+ 
 
